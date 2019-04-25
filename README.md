@@ -1,3 +1,5 @@
-# gamlj_docs
-Documentation for [gamlj](https://mcfanda.github.io/gamlj_docs/)
-Read it [here](https://mcfanda.github.io/gamlj_docs/)
+# Legacy gamlj_docs
+This repository is deprecated. Please refer to: 
+
+Documentation for [gamlj](https://gamlj.github.io)
+Source of the documentation [here](https://github.com/gamlj/gamlj_docsource)
